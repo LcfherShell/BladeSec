@@ -1,4 +1,4 @@
-Berikut adalah contoh README untuk modul **BladeSec**, sebuah module tambahan NestJS yang berfungsi untuk meningkatkan keamanan website:
+<img src="https://repository-images.githubusercontent.com/855940385/0277f0c7-bd8c-45be-988a-540bdbfc5577" alt="BladeSec" style="max-width: 100%; height: auto;" />
 
 ---
 
